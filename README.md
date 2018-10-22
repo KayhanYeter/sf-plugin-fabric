@@ -95,7 +95,6 @@ You can find API_KEY and BUILD_SECRET by following the steps below
 
 
 const Page = require("sf-core/ui/page");
-const Page = require("sf-core/ui/page");
 const extend = require("js-base/core/extend");
 
 const Fabric = require("sf-plugin-fabric");   
